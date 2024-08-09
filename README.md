@@ -15,8 +15,8 @@
       />
     </picture>
   </div>
-  <a href="https://codpud.xyz/">
-    <img src="https://img.shields.io/badge/-Personal%20Website-1a1b27?style=for-the-badge" alt="Personal Website">
+  <a href="https://codpud.xyz">
+    <img src="https://img.shields.io/website?style=for-the-badge&up_message=online&url=https%3A%2F%2Fcodpud.xyz&label=codpud.xyz" alt="Website Status">
   </a>
   <a href="https://linkedin.com/in/jalol-khamroev-2771351a0/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
@@ -25,6 +25,7 @@
     <img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
   </a>
 </div>
+
 
 <div align="center" style="display: flex; align-items: center;">
   <h3>:hammer_and_wrench: Languages and Tools</h3>
