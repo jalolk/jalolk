@@ -18,6 +18,7 @@
   <a href="https://codpud.xyz">
     <img src="https://img.shields.io/website?style=for-the-badge&up_message=online&url=https%3A%2F%2Fcodpud.xyz&label=codpud.xyz" alt="Website Status">
   </a>
+  <br />
   <a href="https://linkedin.com/in/jalol-khamroev-2771351a0/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
